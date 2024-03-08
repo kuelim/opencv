@@ -1,4 +1,4 @@
-## OpenCV: Open Source Computer Vision Library
+## OpenCV3: Open Source Computer Vision Library
 
 
 ### Resources
